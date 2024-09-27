@@ -8,7 +8,7 @@ import time
 from palettable.colorbrewer.qualitative import Set1_9
 
 # from envs.Obstacle.env_utils import *
-from env_utils_v2 import *
+from env_utils import *
 
 class action_space_obj:
     def __init__(self):
